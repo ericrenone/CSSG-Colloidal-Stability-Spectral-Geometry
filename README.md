@@ -1,1 +1,1 @@
-# CSSG--Colloidal-Stability-Spectral-Geometry
+# CSSG-Colloidal-Stability-Spectral-Geometry
